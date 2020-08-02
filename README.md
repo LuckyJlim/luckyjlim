@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📫 How to reach me: http://luckyjlim.github.io
+
 <!--
 **LuckyJlim/luckyjlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
